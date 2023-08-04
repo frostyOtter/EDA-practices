@@ -161,7 +161,9 @@ cython_debug/
 
 # input data and models
 .DS_Store
-
+.vscode
+bin
+tmp
 
 # data files
 
